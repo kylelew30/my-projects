@@ -31,7 +31,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 --
 
 ### STAT 365: Statistical Communication
-##### **Project Description:** Analysis on how Religion is Changing in America. Used data provided from https://gss.norc.org/, tracking multiple religion related variables across multiple years to answer analytical questions. The focus for this project was my ability to effectively interpret and communicate my findings to a non-technical audience. 
+##### **Project Description:** Analyzed how Religion is Changing in America. Used data provided from https://gss.norc.org/, tracking multiple religion related variables across multiple years to answer analytical questions. The focus for this project was my ability to effectively interpret and communicate my findings to a non-technical audience. 
 
 ##### **Skills Used:**
 - Data Visualization
@@ -49,6 +49,30 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 ---
 
 ## **Data Science Courses**
+
+### DATA 451-452: Data Science Capstone
+##### **Project Description(Client A):** Collaborated with the World Bank Group as part of a team of four student data analysts to develop a predictive machine learning model for estimating poverty levels in the Middle East/North Africa (MENA) region using public geospatial data. Pulled, cleaned, and prepared large datasets, including satellite and conflict data, for model training. Implemented and compared two predictive models—neural networks and ridge regression—utilizing cross-validation to optimize parameters. Managed the client relationship by leading bi-weekly meetings with the World Bank to provide progress updates and refine project objectives. 
+
+
+##### **Skills Used:**
+- Data Cleaning
+- Feature Engineering
+- Model Tuning/Cross Validation
+- Predictive Modeling
+- Neural Networks
+- Geospatial Analysis
+
+##### **Technologies Used:**
+- Python
+- Jupyter Notebooks
+- Microsoft Word/PowerPoint
+- Amazon AWS
+
+##### **Files(Client A):**
+- [Report](Data_Science/Final_Report_WorldBank.pdf)
+- [Presentation](Data_Science/Poster_WorldBank.pdf)
+
+--
 
 ### DATA 403: Data Science Projects Laboratory
 ##### **Project Description(Client A):** Worked with a 'simulated' Liquor store company to predict the amount of alcohol they would sell in the new year. With a small group of 4 students, we created built and tuned a predictive model on a large dataset with many predictors. Along with the code, the project consisted of a final report and presentation of our process and model performance. For this project we wrote all the model functions by hand without the use of prexisting Data Science packages(like scikit learn)
