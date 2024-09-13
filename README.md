@@ -28,7 +28,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 - [Presentation](Stats/Final_Presentation_421.pdf)
 - [Infographic](Stats/Final_Infographic_421.pdf)
 
----
+--
 
 ### STAT 365: Statistical Communication
 ##### **Project Description:** Analysis on how Religion is Changing in America. Used data provided from https://gss.norc.org/, tracking multiple religion related variables across multiple years to answer analytical questions. The focus for this project was my ability to effectively interpret and communicate my findings to a non-technical audience. 
@@ -77,7 +77,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 - [Report](Data_Science/Final_Report_B_403.pdf)
 - [Codebook](Data_Science/Final_Presentation_B_403.pdf)
 
----
+--
 
 ### DATA 301: Introduction to Data Science
 ##### **Project Description:** Analysis on how Data Science techniques can be used in Fantasy Basketball. I used a collection of common Data Science techniques to both predict and analyze NBA players in accordance to how well they would perform in Fantasy Basketball. 
