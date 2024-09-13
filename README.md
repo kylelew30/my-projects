@@ -51,7 +51,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 ## **Data Science Courses**
 
 ### DATA 451-452: Data Science Capstone
-##### **Project Description(Client A):** Collaborated with the World Bank Group as part of a team of four student data analysts to develop a predictive machine learning model for estimating poverty levels in the Middle East/North Africa (MENA) region using public geospatial data. Pulled, cleaned, and prepared large datasets, including satellite and conflict data, for model training. Implemented and compared two predictive models—neural networks and ridge regression—utilizing cross-validation to optimize parameters. Managed the client relationship by leading bi-weekly meetings with the World Bank to provide progress updates and refine project objectives. 
+##### **Project Description(Client A):** Collaborated with the World Bank Group as part of a team of four student data analysts to develop a predictive machine learning model for estimating poverty levels in the Middle East/North Africa (MENA) region using public geospatial data. Pulled, cleaned, and prepared large datasets, including satellite and conflict data, for model training. Implemented and compared two predictive models—neural networks and ridge regression—utilizing cross-validation to optimize parameters. Managed the client relationship by leading bi-weekly meetings with the World Bank to provide progress updates and refine project objectives. Over the 20 week research project, we were able to train, tune, and implement multiple predictive models resulting in $R^2$ values of 0.0652 and 0.0109 for the respective neural network and ridge regression models. 
 
 
 ##### **Skills Used:**
@@ -68,7 +68,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 - Microsoft Word/PowerPoint
 - Amazon AWS
 
-##### **Files(Client A):**
+##### **Files:**
 - [Report](Data_Science/Final_Report_WorldBank.pdf)
 - [Presentation](Data_Science/Poster_WorldBank.pdf)
 
