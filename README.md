@@ -8,8 +8,10 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ## **Statistics Courses**
 
-### STAT 421: Survey Sampling and Methodology
+### Cal Poly Student Affairs - Student Employee Research Survey
 ##### **Project Description:** With a class of 30 other students we worked with Cal Poly Student Affairs to conduct a research study on the state of their student employees. The survey focused on finding areas of improvement, specifically relating to onboarding, work environment, and career goals. At the end of the 10 week long project, we presented our findings to a group of Cal Poly faculty in the form of a PowerPoint presentation and a one page infographic. 
+
+##### Course: STAT 421(Survey Sampling and Methodology)
 
 ##### **Skills Used:**
 - Survey Design
@@ -30,8 +32,10 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 --
 
-### STAT 365: Statistical Communication
+### Data Analysis on how Religion is Changing in America
 ##### **Project Description:** Analyzed how Religion is Changing in America. Used data provided from https://gss.norc.org/, tracking multiple religion related variables across multiple years to answer analytical questions. The focus for this project was my ability to effectively interpret and communicate my findings to a non-technical audience. 
+
+##### Course: STAT 365(Statistical Communication)
 
 ##### **Skills Used:**
 - Data Visualization
@@ -50,7 +54,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ## **Data Science Courses**
 
-### Capstone Project: Predicting Poverty levels in the Middle East/North Africa region
+### World Bank Group - Predicting Poverty levels in the Middle East/North Africa region
 ##### **Project Description:** Collaborated with the World Bank Group as part of a team of four student data analysts to develop a predictive machine learning model for estimating poverty levels in the Middle East/North Africa (MENA) region using public geospatial data. Pulled, cleaned, and prepared large datasets, including satellite and conflict data, for model training. Implemented and compared two predictive models—neural networks and ridge regression—utilizing cross-validation to optimize parameters. Managed the client relationship by leading bi-weekly meetings with the World Bank to provide progress updates and refine project objectives. Over the 20 week research project, we were able to train, tune, and implement multiple predictive models resulting in $R^2$ values of 0.0652 and 0.0109 for the respective neural network and ridge regression models. 
 
 ##### **Course:** DATA 451-452: Data Science Capstone
