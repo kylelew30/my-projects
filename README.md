@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub repository! This is a collection of noteable projects I have worked on, demonstrating my skills and passion for Data Analysis. Feel free to explore each project and its associated files.
+Welcome to my GitHub repository! This is a collection of noteable projects I have worked on, demonstrating my skills and passion for Data Science and Data Analysis. Feel free to explore each project and its associated files.
 
 ---
 ---
