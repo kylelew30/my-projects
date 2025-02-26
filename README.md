@@ -10,8 +10,6 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 ### World Bank Group - Predicting Poverty levels in the Middle East/North Africa region
 ##### **Project Description:** Collaborated with the World Bank Group as part of a team of four student data analysts to develop a predictive machine learning model for estimating poverty levels in the Middle East/North Africa (MENA) region using public geospatial data. Pulled, cleaned, and prepared large datasets, including satellite and conflict data, for model training. Implemented and compared two predictive models—neural networks and ridge regression—utilizing cross-validation to optimize parameters. Managed the client relationship by leading bi-weekly meetings with the World Bank to provide progress updates and refine project objectives. Over the 20 week research project, we were able to train, tune, and implement multiple predictive models resulting in $R^2$ values of 0.0652 and 0.0109 for the respective neural network and ridge regression models. 
 
-##### **Course:** DATA 451-452: Data Science Capstone
-
 ##### **Skills Used:**
 - Data Cleaning
 - Feature Engineering
@@ -34,8 +32,6 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ### Cal Poly Student Affairs - Student Employee Research Survey
 ##### **Project Description:** With a class of 30 other students we worked with Cal Poly Student Affairs to conduct a research study on the state of their student employees. The survey focused on finding areas of improvement, specifically relating to onboarding, work environment, and career goals. At the end of the 10 week long project, we presented our findings to a group of Cal Poly faculty in the form of a PowerPoint presentation and a one page infographic. 
-
-##### Course: STAT 421(Survey Sampling and Methodology)
 
 ##### **Skills Used:**
 - Survey Design
@@ -60,8 +56,6 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 ##### **Project Description(Client A):** Worked with a 'simulated' Liquor store company to predict the amount of alcohol they would sell in the new year. With a small group of 4 students, we created built and tuned a predictive model on a large dataset with many predictors. Along with the code, the project consisted of a final report and presentation of our process and model performance. For this project we wrote all the model functions by hand without the use of prexisting Data Science packages(like scikit learn)
 
 ##### **Project Description(Client B):** Worked with a 'simulated' non-profit company to analyze drinking habits, specifically which factors most closely related to alcohol consumption. Along with the code, the project consisted of a final report and presentation of our process and findings. For this project we wrote all the model functions by hand without the use of prexisting Data Science packages(like scikit learn)
-
-##### Course: DATA 403(Data Science Projects Laboratory)
 
 ##### **Skills Used:**
 - Data Cleaning
@@ -97,8 +91,6 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 - Predictive modeling
 - Unsupervised learning(Clustering)
 
-##### Course: Data 301(Introduction to Data Science)
-
 ##### **Technologies Used:**
 - Python
 - scikit learn
@@ -112,8 +104,6 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ### Data Analysis on how Religion is Changing in America
 ##### **Project Description:** Analyzed how Religion is Changing in America. Used data provided from https://gss.norc.org/, tracking multiple religion related variables across multiple years to answer analytical questions. The focus for this project was my ability to effectively interpret and communicate my findings to a non-technical audience. 
-
-##### Course: STAT 365(Statistical Communication)
 
 ##### **Skills Used:**
 - Data Visualization
@@ -132,8 +122,6 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ### Data Analysis on Health in a Contemporary Society
 ##### **Project Description:** Using multiple common Data Analysis algorithms, we set out to dive into the state of mental and physical health in contemporary society, specifically looking to see which variables best predict certain health metrics. To do so we analyzed 3 seperate datasets, creating more specific analtical questions for each. Along with the code, the project consisted of a final report and presentation of our process and findings. For this project, we wrote all of the Data Analysis functions by hand, without the use of prexisting Data Science packages(like scikit learn)
-
-##### Course: CSC 466(Knowledge Discovery From Data)
 
 ##### **Skills Used:**
 - KNN Classifier
