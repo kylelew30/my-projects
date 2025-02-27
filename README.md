@@ -30,7 +30,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ---
 
-### (2024) - How to use Machine Learning to inform decision making in the Spain High-Speed Railroad System
+### (2024) - How to use Machine Learning to inform decision making for Spain's High-Speed Railroad System
 ##### **Project Description:** Utilized machine learning prediction models to inform on key decision making in Spain's High-Speed Railroad System. Collaborated with a team of 3 other students, completing a start to finish data analysis project. Performed initial data exploration and formed key research quesitons. Tested, tuned, and deployed multiple predictive machine learning models. Concluded by creating a concise, digestable presentation. 
 
 ##### **Skills Used:**
@@ -100,7 +100,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ---
 
-### Using Data Analysis in Fantasy Basketball
+### (2023) - Using Data Analysis in Fantasy Basketball
 ##### **Project Description:** Analysis on how Data Science techniques can be used in Fantasy Basketball. I used a collection of common Data Science techniques to both predict and analyze NBA players in accordance to how well they would perform in Fantasy Basketball. 
 
 ##### **Skills Used:**
@@ -121,7 +121,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ---
 
-### Data Analysis on how Religion is Changing in America
+### (2022) - Data Analysis on how Religion is Changing in America
 ##### **Project Description:** Analyzed how Religion is Changing in America. Used data provided from https://gss.norc.org/, tracking multiple religion related variables across multiple years to answer analytical questions. The focus for this project was my ability to effectively interpret and communicate my findings to a non-technical audience. 
 
 ##### **Skills Used:**
@@ -139,7 +139,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ---
 
-### Data Analysis on Health in a Contemporary Society
+### (2023) - Data Analysis on Health in a Contemporary Society
 ##### **Project Description:** Using multiple common Data Analysis algorithms, we set out to dive into the state of mental and physical health in contemporary society, specifically looking to see which variables best predict certain health metrics. To do so we analyzed 3 seperate datasets, creating more specific analtical questions for each. Along with the code, the project consisted of a final report and presentation of our process and findings. For this project, we wrote all of the Data Analysis functions by hand, without the use of prexisting Data Science packages(like scikit learn)
 
 ##### **Skills Used:**
