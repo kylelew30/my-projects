@@ -7,7 +7,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 ---
 ---
 
-### World Bank Group - Predicting Poverty levels in the Middle East/North Africa region (2024)
+### (2024) - World Bank Group - Predicting Poverty levels in the Middle East/North Africa region
 ##### **Project Description:** Collaborated with the World Bank Group as part of a team of four student data analysts to develop a predictive machine learning model for estimating poverty levels in the Middle East/North Africa (MENA) region using public geospatial data. Pulled, cleaned, and prepared large datasets, including satellite and conflict data, for model training. Implemented and compared two predictive models—neural networks and ridge regression—utilizing cross-validation to optimize parameters. Managed the client relationship by leading bi-weekly meetings with the World Bank to provide progress updates and refine project objectives. Over the 20 week research project, we were able to train, tune, and implement multiple predictive models resulting in $R^2$ values of 0.0652 and 0.0109 for the respective neural network and ridge regression models. 
 
 ##### **Skills Used:**
@@ -30,7 +30,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ---
 
-### How to use Machine Learning to inform decision making in the Spain High-Speed Railroad System (2024)
+### (2024) - How to use Machine Learning to inform decision making in the Spain High-Speed Railroad System
 ##### **Project Description:** Utilized machine learning prediction models to inform on key decision making in Spain's High-Speed Railroad System. Collaborated with a team of 3 other students, completing a start to finish data analysis project. Performed initial data exploration and formed key research quesitons. Tested, tuned, and deployed multiple predictive machine learning models. Concluded by creating a concise, digestable presentation. 
 
 ##### **Skills Used:**
@@ -44,12 +44,12 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 - Google Slides
 
 ##### **Files:**
-- [Codebook](Data_Science/Final_Code_A_403.ipynb)
-- [Presentation](Data_Science/Final_Presentation_A_403.pdf)
+- [Notebook](Data_Science/Phase2.html)
+- [Presentation](Data_Science/Phase 3_Final Report.pdf)
 
 ---
 
-### Simulated Data Consulting: Predictive Modeling and Trend Analysis (2023)
+### (2023) - Simulated Data Consulting: Predictive Modeling and Trend Analysis
 ##### **Project Description(Client A):** Worked with a 'simulated' Liquor store company to predict the amount of alcohol they would sell in the new year. With a small group of 4 students, we created built and tuned a predictive model on a large dataset with many predictors. Along with the code, the project consisted of a final report and presentation of our process and model performance. For this project we wrote all the model functions by hand without the use of prexisting Data Science packages(like scikit learn)
 
 ##### **Project Description(Client B):** Worked with a 'simulated' non-profit company to analyze drinking habits, specifically which factors most closely related to alcohol consumption. Along with the code, the project consisted of a final report and presentation of our process and findings. For this project we wrote all the model functions by hand without the use of prexisting Data Science packages(like scikit learn)
@@ -78,7 +78,7 @@ Welcome to my GitHub repository! This is a collection of noteable projects I hav
 
 ---
 
-### Cal Poly Student Affairs - Student Employee Research Survey
+### (2022) - Cal Poly Student Affairs - Student Employee Research Survey
 ##### **Project Description:** With a class of 30 other students we worked with Cal Poly Student Affairs to conduct a research study on the state of their student employees. The survey focused on finding areas of improvement, specifically relating to onboarding, work environment, and career goals. At the end of the 10 week long project, we presented our findings to a group of Cal Poly faculty in the form of a PowerPoint presentation and a one page infographic. 
 
 ##### **Skills Used:**
